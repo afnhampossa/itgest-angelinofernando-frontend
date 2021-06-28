@@ -11,6 +11,5 @@
 ### build for production with minification
 `npm run build`
 
-## File Structure
-Within the download you'll find the following directories and files:
+
 
